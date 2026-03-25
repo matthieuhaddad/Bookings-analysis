@@ -1,0 +1,1382 @@
+country_code,specializations,specialization_type,has_pricing,min_2_bookable_services_with_prices,min_4_bookable_services_with_prices,count
+mx,orthopaedic surgeon / orthopedist,medical,1,0,0,44
+br,psychologist,paramedical,1,0,0,106
+mx,general surgeon,medical,1,1,0,15
+br,gastroenterologist / hepatologist,medical,1,1,1,2
+br,general practitioner / infectologist,medical,1,1,0,1
+mx,ophthalmologist,medical,0,1,1,4
+mx,nutrologist / nutritionist,medical,0,0,0,5
+br,geriatrician,medical,1,0,0,11
+mx,otorhinolaryngologist,medical,1,1,1,5
+mx,optometrist,medical,1,1,0,4
+br,general practitioner / nephrologist,medical,1,0,0,1
+br,endocrinologist,medical,1,1,1,37
+mx,nutrologist,medical,1,1,1,16
+mx,internist / infectologist,medical,1,1,1,2
+br,general practitioner / intensive medicine specialist,medical,1,1,0,1
+br,psychiatrist,medical,1,1,0,37
+br,nutrologist / endoscopist / general surgeon,medical,1,0,0,1
+mx,dermatologist,medical,1,0,0,18
+mx,speech therapist / complementary therapist,paramedical,1,1,1,1
+br,neurologist,medical,1,0,0,21
+br,oral and maxillofacial surgeon,paramedical,1,1,0,2
+br,hepatologist / gastroenterologist,medical,1,0,0,1
+mx,anesthesiologist / pain management specialist,paramedical,1,0,0,2
+mx,hematologist,medical,0,1,0,3
+mx,physiotherapist,paramedical,0,1,1,17
+mx,pediatric infectologist / pediatrician,medical,1,0,0,2
+mx,radiologist,medical,0,1,1,3
+br,rheumatologist,medical,1,1,1,13
+br,general practitioner / endocrinologist,medical,1,1,1,2
+mx,pediatric surgeon,medical,0,0,0,4
+br,allergist / pediatrician,medical,1,1,1,1
+br,generalist,medical,1,1,0,14
+br,psychiatrist / generalist,medical,1,1,1,6
+mx,respiratory physician,medical,1,1,1,8
+br,neurosurgeon,medical,1,1,0,6
+mx,general surgeon / general practitioner / internist,medical,0,0,0,1
+mx,acupuncturist,medical,1,1,0,2
+br,hematologist / medical clinic specialist,medical,1,0,0,1
+br,general practitioner / dermatologist,medical,0,0,0,1
+br,rheumatologist / general practitioner,medical,1,1,1,1
+mx,dentist / pediatric dentist,medical,1,0,0,3
+mx,sports medicine specialist,paramedical,1,0,0,2
+br,general practitioner / occupational doctor / generalist,medical,1,0,0,1
+br,sexologist / psychoanalyst / complementary therapist,medical,1,1,1,1
+br,pediatric endocrinologist,medical,1,0,0,6
+br,otolaryngologist,medical,1,1,1,18
+mx,ophthalmologist / medical and surgical retina specialist,medical,1,0,0,2
+mx,angiologist,medical,1,1,0,2
+mx,pediatrician / neonatologist,medical,1,1,1,7
+br,general practitioner,medical,0,0,0,6
+br,psychoanalyst / psychologist,paramedical,1,1,1,6
+br,urologist / expert doctor,medical,1,0,0,1
+mx,pediatrician / neonatologist,medical,0,1,0,3
+mx,chiropractor,paramedical,0,1,1,1
+mx,general surgeon / general practitioner,medical,0,1,1,1
+br,endocrinologist / general practitioner / medical clinic specialist,medical,1,0,0,1
+br,nutrologist / acupuncturist / general surgeon,medical,1,0,0,1
+br,specialist in physical medicine and rehabilitation,medical,1,1,1,1
+mx,pediatrician / neurophysiologist,medical,1,1,0,1
+mx,pediatric dentist / dentist,medical,1,0,0,3
+mx,infectologist,medical,0,1,1,1
+mx,allergist / immunologist,medical,0,1,1,1
+mx,maxillofacial surgeon,medical,1,1,1,1
+br,general practitioner / psychoanalyst,medical,1,1,1,1
+mx,pediatrician / allergist / immunologist,medical,1,1,1,1
+mx,rheumatologist / internist,medical,1,0,0,3
+mx,internist / rheumatologist,medical,1,0,0,1
+mx,oncologist surgeon,medical,0,0,0,1
+br,generalist / psychologist,medical,1,1,1,1
+br,oncologist / medical clinic specialist,medical,1,0,0,2
+br,dermatologist / occupational doctor,medical,1,0,0,1
+mx,nephrologist / internist / general practitioner,medical,1,0,0,1
+br,digestive system surgeon / general surgeon,medical,1,0,0,4
+mx,family doctor,medical,1,0,0,3
+mx,anesthesiologist,paramedical,0,1,1,1
+mx,geriatrician / internist,medical,1,1,0,1
+br,dentist / oral and maxillofacial surgeon,paramedical,1,0,0,1
+br,medical clinic specialist / occupational doctor / expert doctor,medical,1,1,1,1
+mx,pediatrician / general practitioner,medical,1,1,1,1
+mx,gastroenterologist / family doctor / general practitioner,medical,1,0,0,1
+br,speech therapist,paramedical,1,1,0,1
+br,nurse,paramedical,1,0,0,1
+mx,dentist,,1,0,0,1
+mx,specialist in critical medicine and intensive care,paramedical,1,1,0,1
+mx,respiratory physician / general practitioner,medical,1,1,0,1
+br,pediatrician / dermatologist,medical,1,0,0,1
+br,hepatologist,medical,1,1,1,1
+br,general practitioner / general surgeon / oncologist surgeon,medical,1,1,1,1
+br,nuclear medicine specialist,medical,0,0,0,1
+br,gastroenterologist / medical clinic specialist,medical,1,0,0,1
+mx,allergist / pediatric  respiratory physician / pediatrician,medical,0,0,0,1
+mx,gastroenterologist,medical,1,1,1,1
+mx,gynecologist / specialist in obesity and thinness,medical,1,1,1,1
+br,head and neck surgeon / general surgeon,medical,1,0,0,1
+mx,dentist,medical,0,0,0,45
+br,ophthalmologist,medical,1,1,1,50
+mx,internist,medical,0,0,0,10
+mx,general surgeon,medical,0,0,0,42
+mx,plastic surgeon,medical,1,0,0,11
+br,general surgeon / coloproctologist,medical,1,0,0,2
+br,infectologist,medical,1,1,1,19
+mx,general practitioner,medical,0,1,0,8
+br,rheumatologist / general practitioner,medical,1,1,0,1
+br,general surgeon,medical,1,0,0,9
+mx,dermatologist,medical,1,1,1,10
+br,nutritionist,paramedical,1,1,0,17
+br,oncologist,medical,1,1,1,12
+mx,general practitioner / orthopaedic surgeon / orthopedist,medical,1,0,0,1
+br,pediatrician,medical,0,0,0,5
+mx,gynecologist,medical,1,0,0,77
+mx,orthopaedic surgeon / orthopedist,medical,1,1,1,19
+mx,oncologist,medical,1,1,0,3
+mx,sports medicine specialist / specialist in obesity and thinness / general practitioner,paramedical,1,1,0,1
+mx,psychoanalyst / psychologist,medical,0,1,1,1
+br,generalist / general practitioner,medical,1,0,0,9
+mx,nutrologist / general practitioner,medical,0,1,1,1
+mx,pediatric cardiologist / pediatrician,medical,1,0,0,2
+br,general practitioner / pediatric surgeon,medical,1,0,0,1
+br,gastroenterologist,medical,1,1,1,11
+mx,nephrologist,medical,1,0,0,16
+br,dentist,paramedical,0,0,0,3
+br,specialist in aesthetic medicine,medical,1,0,0,1
+br,nutrologist / medical clinic specialist,medical,1,1,1,2
+br,physical therapist,paramedical,0,1,0,1
+br,family doctor / generalist,medical,1,0,0,3
+mx,neurologist,medical,1,0,0,7
+mx,pediatric gastroenterologist / pediatrician,medical,1,0,0,4
+br,angiologist,medical,1,0,0,2
+br,general practitioner / traffic doctor,medical,1,1,1,2
+mx,general practitioner / diabetologist,medical,1,1,0,1
+br,pediatrician / pediatric endocrinologist,medical,1,0,0,1
+mx,pediatric hematologist / pediatrician,medical,1,1,0,2
+mx,nutritionist,paramedical,0,1,0,1
+br,general practitioner / psychiatrist,medical,1,0,0,2
+mx,oncologist surgeon,medical,1,0,0,2
+br,cardiologist / medical clinic specialist,medical,1,1,1,8
+br,emergency doctor,medical,1,0,0,1
+mx,neurosurgeon / neurologist / general surgeon,medical,1,0,0,1
+mx,proctologist / general surgeon,medical,1,0,0,3
+br,angiologist / vascular surgeon,medical,1,1,0,1
+br,pediatrician / nutrologist / homeopath,medical,1,0,0,1
+mx,cardiologist / general practitioner,medical,1,1,1,2
+mx,dentist / orthodontist,medical,0,1,0,1
+mx,dermatologist / general practitioner,medical,1,0,0,1
+mx,internist / general practitioner / specialist in critical medicine and intensive care,medical,0,0,0,1
+mx,psychologist,,1,1,1,2
+mx,psychologist / educational psychologist,paramedical,1,1,1,1
+br,family doctor / psychiatrist / general practitioner,medical,1,1,1,1
+br,pediatrician / general practitioner,medical,1,1,0,1
+mx,gynecologist / gynecologist,medical,0,1,0,1
+br,pediatric neurologist / pediatrician,medical,1,0,0,3
+br,general surgeon / gastroenterologist,medical,1,1,1,1
+br,cardiologist / general practitioner,medical,1,0,0,3
+mx,pediatrician / specialty in critically ill pediatric medicine,medical,1,1,1,6
+mx,general practitioner / clinical nutritionist / nutritionist,medical,1,1,0,1
+br,generalist / hematologist,medical,1,1,1,1
+br,dermatologist / infectologist / specialist in aesthetic medicine,medical,1,0,0,1
+br,ultrasound specialist / diagnostic radiologist,medical,1,1,1,1
+mx,internist / nephrologist,medical,1,0,0,1
+br,urologist / human reproduction specialist,medical,1,1,1,1
+br,mastologist / general practitioner / gynecologist,medical,1,1,0,1
+br,nutritionist / psychoanalyst / complementary therapist,paramedical,1,1,1,1
+br,psychoanalyst / pediatrician,paramedical,1,1,1,1
+mx,complementary therapist,paramedical,1,1,0,1
+br,general practitioner / gastroenterologist,medical,1,0,0,1
+mx,internist / endocrinologist,medical,1,0,0,1
+br,oncologist surgeon / general surgeon,medical,1,0,0,1
+mx,audiologist / phoniatrician,paramedical,0,1,1,1
+br,allergist / pediatrician / emergency doctor,medical,1,1,0,1
+br,neurologist / cardiologist / family doctor,medical,1,0,0,1
+mx,allergist / pediatrician,medical,1,1,1,1
+mx,implantologist / dentist,medical,0,0,0,2
+br,pediatric endocrinologist / pediatrician,medical,1,0,0,1
+br,nephrologist,,1,1,1,1
+mx,sexologist / general practitioner,paramedical,1,1,1,1
+br,traumatologist and orthopedist / nutritionist / generalist,medical,1,0,0,1
+mx,neurosurgeon / general practitioner,medical,0,0,0,1
+mx,educational psychologist,paramedical,0,1,1,1
+mx,pediatric  respiratory physician / pediatrician,medical,0,1,0,2
+mx,physical medicine and rehabilitation specialist,paramedical,1,1,1,4
+mx,psychologist,paramedical,0,1,0,27
+mx,plastic surgeon,medical,1,1,1,7
+br,generalist,medical,1,1,1,64
+br,ophthalmologist,medical,1,1,0,11
+mx,general surgeon,medical,1,1,1,33
+mx,general practitioner,medical,1,1,0,31
+br,nutrologist / general surgeon,medical,1,0,0,2
+br,speech therapist,paramedical,1,0,0,9
+br,neurosurgeon,medical,1,0,0,25
+mx,internist,medical,1,0,0,13
+mx,maxillofacial surgeon,medical,0,0,0,3
+mx,oncologist surgeon / general surgeon,medical,1,1,1,3
+mx,hematologist,medical,0,1,1,2
+mx,pediatrician,medical,0,1,0,4
+mx,neurosurgeon,medical,1,0,0,15
+br,pediatrician / family doctor,medical,1,1,1,1
+mx,angiologist,medical,1,0,0,4
+mx,pediatrician / neonatologist,medical,0,0,0,2
+br,pediatrician / pediatric infectologist,medical,1,1,1,1
+mx,urology gynecologist / gynecologist,medical,1,0,0,1
+mx,dentist / orthodontist / implantologist,medical,1,1,1,1
+mx,general practitioner / specialist in obesity and thinness,medical,1,1,1,1
+br,geriatrician / gynecologist / psychoanalyst,medical,1,1,0,1
+br,complementary therapist,paramedical,1,1,0,5
+mx,physical medicine and rehabilitation specialist,paramedical,1,1,0,4
+mx,nephrologist,medical,1,1,1,2
+mx,educational psychologist / sexologist,paramedical,1,1,0,1
+br,generalist / dermatologist / psychiatrist,medical,1,1,1,1
+br,medical clinic specialist / general practitioner,medical,1,0,0,1
+br,pediatric dentist,paramedical,1,1,1,1
+mx,plastic surgeon,,0,0,0,1
+br,urologist / general surgeon,medical,1,0,0,1
+mx,pediatrician / allergist / immunologist,medical,0,0,0,1
+mx,dentist / implantologist / periodontologist,medical,1,1,1,1
+mx,plastic surgeon / general surgeon / general practitioner,medical,1,0,0,1
+mx,oncologist / internist / general practitioner,medical,0,0,0,1
+mx,emergency medicine specialist,paramedical,1,1,1,4
+mx,homeopath,medical,0,1,0,1
+mx,occupational doctor,paramedical,0,0,0,1
+br,general practitioner / psychiatrist / occupational doctor,medical,1,1,1,1
+br,physical therapist / chiropractor,paramedical,1,0,0,2
+mx,geriatrician,medical,1,0,0,4
+br,oncologist surgeon / general surgeon,medical,1,1,1,1
+mx,internist / infectologist,medical,0,0,0,1
+br,head and neck surgeon / general practitioner,medical,1,0,0,1
+br,family doctor / preventive medicine specialist,medical,1,0,0,1
+mx,implantologist / endodontist / dentist,medical,1,1,1,1
+br,psychiatrist / general practitioner / pediatrician,medical,1,1,1,1
+br,pain management specialist / rheumatologist / general practitioner,medical,1,1,1,1
+mx,pediatric surgeon / pediatrician,medical,1,0,0,3
+mx,orthodontist,medical,1,1,1,1
+mx,internist / rheumatologist,medical,1,1,0,1
+mx,cardiologist / internist,medical,0,1,0,1
+mx,nutrologist / nutritionist,medical,0,1,0,1
+mx,geriatrician / general practitioner,medical,1,1,1,2
+br,cardiologist,medical,0,0,0,4
+br,nutrologist / sports medicine specialist,medical,1,1,1,2
+mx,dentist / cosmetic medicine specialist,medical,1,0,0,1
+br,psychologist,paramedical,0,1,1,2
+br,acupuncturist / traumatologist and orthopedist,medical,0,0,0,1
+br,dermatologist / generalist,medical,1,1,1,1
+mx,nutrologist / clinical nutritionist,medical,1,1,1,1
+br,sexologist / psychologist,medical,1,0,0,1
+mx,pediatrician / pediatric infectologist,medical,1,1,0,1
+br,digestive system surgeon / general surgeon,medical,1,1,0,1
+mx,emergency medicine specialist / internist,paramedical,1,1,0,1
+br,radiologist,medical,1,1,0,1
+mx,cardiovascular and thoracic surgeon / general practitioner,medical,1,1,0,1
+mx,nutrologist,medical,0,0,0,2
+br,rheumatologist,medical,0,0,0,1
+mx,acupuncturist,medical,1,0,0,1
+mx,complementary therapist,paramedical,0,0,0,1
+br,occupational doctor / neurologist,medical,1,1,1,1
+br,psychologist / complementary therapist,paramedical,1,1,0,1
+br,mastologist / gynecologist,medical,1,1,1,1
+mx,occupational doctor / complementary therapist,paramedical,1,1,0,1
+br,pediatrician / pediatric pulmonologist,medical,1,1,1,2
+mx,occupational therapist,paramedical,1,0,0,1
+mx,orthopedist,paramedical,0,1,0,1
+br,dermatologist / general practitioner / generalist,medical,1,1,0,1
+mx,respiratory physician,medical,1,0,0,11
+br,traumatologist and orthopedist,medical,1,0,0,74
+mx,general practitioner,medical,0,0,0,23
+br,medical clinic specialist / cardiologist,medical,1,1,0,1
+mx,otorhinolaryngologist,medical,1,0,0,26
+br,endocrinologist,medical,1,0,0,34
+mx,dentist / bucal pathologist,medical,1,0,0,1
+mx,orthopaedic surgeon / orthopedist / general practitioner,medical,0,0,0,2
+br,head and neck surgeon,medical,1,0,0,5
+br,sports medicine specialist,medical,1,0,0,1
+mx,pediatrician / neonatologist,medical,0,1,1,2
+br,hematologist,medical,1,1,1,10
+br,endocrinologist / general practitioner,medical,1,0,0,2
+mx,general surgeon / bariatric surgeon,medical,1,1,1,1
+mx,neurosurgeon,medical,1,1,1,2
+mx,maxillofacial surgeon,medical,1,0,0,8
+br,psychiatrist / general practitioner / general surgeon,medical,1,1,1,1
+br,otolaryngologist / craniomaxillofacial surgeon,medical,1,1,1,1
+mx,urology gynecologist / gynecologist,medical,1,1,1,2
+br,dermatologist / specialist in aesthetic medicine,medical,0,0,0,1
+br,psychopedagogue,paramedical,1,0,0,3
+mx,dentist,medical,0,1,0,7
+mx,general practitioner / complementary therapist,medical,0,1,1,1
+br,psychoanalyst,paramedical,1,1,0,12
+br,ophthalmologist,medical,0,0,0,8
+mx,nutritionist / nutrologist,paramedical,1,0,0,8
+mx,oncologist,medical,1,0,0,6
+br,cardiologist / internist / medical clinic specialist,medical,1,1,1,1
+br,rheumatologist / general practitioner,medical,1,0,0,2
+br,rheumatologist / medical clinic specialist,medical,1,1,1,1
+br,internist / medical clinic specialist,medical,1,0,0,1
+br,angiologist / vascular surgeon,medical,1,0,0,3
+br,general surgeon / digestive system surgeon,medical,1,1,1,3
+mx,proctologist / general surgeon,medical,1,1,0,1
+br,psychiatrist / psychoanalyst,medical,1,1,1,2
+mx,internist / infectologist,medical,1,0,0,2
+br,general practitioner / medical clinic specialist,medical,1,1,1,3
+mx,dentist / endodontist / periodontologist,medical,1,1,0,1
+mx,podiatrist,paramedical,1,0,0,1
+br,cardiologist / sports medicine specialist,medical,1,1,0,2
+mx,infectologist / internist,medical,0,0,0,2
+br,endocrinologist / medical clinic specialist / intensive medicine specialist,medical,1,1,0,1
+br,general surgeon,medical,1,1,0,2
+br,general practitioner / generalist / dermatologist,medical,1,1,1,1
+mx,radiologist,medical,0,0,0,4
+br,gynecologist / acupuncturist,medical,1,0,0,1
+br,intensive medicine specialist / pediatrician,medical,0,0,0,1
+mx,plastic surgeon,medical,1,1,0,2
+mx,clinical nutritionist / nutritionist,paramedical,1,0,0,1
+br,oncologist,medical,1,1,0,1
+mx,emergency medicine specialist,paramedical,1,1,0,1
+mx,nurse,medical,1,1,1,3
+br,psychoanalyst / complementary therapist,paramedical,1,1,1,2
+br,sexologist / psychologist,medical,1,1,1,1
+br,generalist / psychiatrist,medical,1,0,0,1
+br,gynecologist / mastologist,medical,1,0,0,1
+br,psychiatrist / neurologist / pediatric neurologist,medical,1,1,1,1
+br,orthodontist,paramedical,1,0,0,3
+mx,allergist / pediatrician / general practitioner,medical,1,1,1,1
+br,sports medicine specialist,medical,0,1,1,1
+mx,nutrologist / specialist in obesity and thinness / nutritionist,medical,1,1,1,2
+mx,pediatric hematologist,medical,1,1,0,1
+br,oncologist surgeon / general surgeon,medical,1,1,0,1
+mx,allergist / immunologist,medical,0,0,0,1
+br,nutrologist,,1,1,1,1
+br,homeopath / geriatrician,medical,1,0,0,1
+mx,geriatrician / gerontologist,medical,1,1,1,1
+mx,nephrologist,medical,1,1,0,1
+mx,specialist in obesity and thinness / general practitioner,paramedical,1,0,0,1
+mx,complementary therapist,paramedical,1,0,0,1
+mx,general surgeon / proctologist,medical,0,0,0,1
+mx,specialist in obesity and thinness / general practitioner,paramedical,0,1,1,1
+br,cardiologist / general practitioner / intensive medicine specialist,medical,0,0,0,1
+br,clinical pathologist,medical,1,0,0,1
+br,cardiologist / medical clinic specialist,medical,0,0,0,1
+mx,emergency medicine specialist / general practitioner,paramedical,0,1,1,1
+mx,pediatric hematologist / pediatrician,medical,1,1,1,1
+mx,pediatric neurologist / pediatrician / neurophysiologist,medical,0,0,0,1
+br,psychiatrist / homeopath,medical,1,1,1,1
+br,general practitioner / family doctor / psychiatrist,medical,1,0,0,1
+br,general surgeon / coloproctologist,medical,1,1,0,1
+mx,psychiatrist / general practitioner,medical,0,1,0,1
+br,cardiologist / internist,medical,1,1,1,1
+mx,orthodontist / dentist,medical,0,1,1,1
+br,pediatrician / general practitioner,medical,1,1,1,1
+br,bariatric surgeon,medical,0,0,0,1
+mx,general practitioner,medical,1,1,1,88
+br,psychoanalyst,paramedical,1,0,0,20
+mx,pediatrician,medical,0,1,1,14
+mx,infectologist / internist,medical,1,1,1,2
+mx,cosmetic medicine specialist,medical,1,0,0,3
+mx,plastic surgeon / cosmetic surgeon,medical,0,0,0,2
+br,generalist / intensive medicine specialist,medical,1,1,1,1
+mx,ophthalmologist,medical,1,1,0,9
+mx,urologist / general practitioner,medical,1,1,0,2
+mx,cosmetic medicine specialist / general practitioner,medical,0,0,0,2
+mx,psychiatrist / general practitioner,medical,0,0,0,2
+mx,chiropractor,paramedical,1,1,0,5
+br,dentist,paramedical,1,0,0,56
+br,hematologist,medical,1,1,0,1
+mx,internist / general practitioner,medical,1,1,1,3
+br,oncologist surgeon,medical,1,0,0,6
+br,mastologist,medical,1,1,1,3
+br,general practitioner / generalist,medical,1,1,0,2
+br,ophthalmologist,medical,1,0,0,65
+mx,pediatric dentist / dentist,medical,0,1,1,1
+br,general practitioner / psychologist,medical,1,1,1,1
+mx,orthodontist / dentist,medical,0,0,0,13
+mx,pediatric dermatologist / pediatrician,medical,0,0,0,1
+mx,maxillofacial surgeon / dentist,medical,1,0,0,3
+mx,nephrologist,medical,0,0,0,5
+br,infectologist,medical,1,0,0,16
+mx,allergist / pediatrician,medical,1,1,0,1
+br,general practitioner / family doctor,medical,1,1,1,2
+mx,allergist / immunologist,medical,1,1,0,2
+br,gastroenterologist / general practitioner / endoscopist,medical,1,1,1,1
+br,urologist,medical,1,1,0,2
+mx,orthodontist,medical,0,0,0,1
+br,pediatric surgeon,medical,1,0,0,6
+br,orofacial harmonization specialist,paramedical,1,1,0,1
+br,psychiatrist / nutrologist,medical,1,1,0,1
+br,generalist / complementary therapist,medical,1,1,1,1
+mx,general surgeon / plastic surgeon / cosmetic surgeon,medical,0,0,0,1
+br,pediatric gastroenterologist,medical,1,0,0,2
+br,psychiatrist / family doctor,medical,1,1,0,2
+br,oncologist / internist,medical,0,0,0,1
+br,endocrinologist / occupational doctor,medical,1,1,0,1
+mx,dermatologist,medical,0,1,1,1
+br,psychiatrist / general practitioner / generalist,medical,1,1,0,1
+mx,physiotherapist,paramedical,0,1,0,6
+mx,nutrologist / specialist in obesity and thinness / nutritionist,medical,1,0,0,1
+mx,neonatologist / pediatrician / general practitioner,medical,1,1,1,1
+br,oncologist,medical,1,0,0,9
+br,endocrinologist / geriatrician / sports medicine specialist,medical,1,1,1,1
+br,general practitioner / otolaryngologist,medical,1,1,1,1
+mx,gynecologist / gynecologist,medical,1,1,1,2
+br,endocrinologist / medical clinic specialist,medical,1,1,0,1
+mx,dermatologist / allergist / immunologist,medical,1,1,1,1
+mx,radiation oncologist,medical,1,1,0,1
+br,pain management specialist,medical,1,0,0,1
+mx,sexologist / psychologist,paramedical,1,1,1,2
+br,cardiologist / nutrologist,medical,1,1,1,1
+mx,infectologist / internist,medical,1,1,0,1
+br,traumatologist and orthopedist / pain management specialist,medical,1,0,0,4
+mx,gastroenterologist / internist,medical,1,0,0,2
+br,physical therapist / osteopath,paramedical,1,1,1,2
+br,pediatric pulmonologist / complementary therapist / pediatrician,medical,1,0,0,1
+br,pulmonologist / sleep doctor,medical,1,0,0,1
+mx,periodontologist / implantologist / dentist,medical,0,0,0,1
+br,pulmonologist,medical,0,0,0,1
+br,generalist,,1,1,1,1
+mx,nurse,medical,1,0,0,1
+mx,psychologist / gerontologist,paramedical,1,1,0,1
+mx,general practitioner / homeopath / complementary therapist,medical,0,1,1,1
+mx,psychologist / educational psychologist,paramedical,0,1,1,1
+mx,neurologist / internist,medical,0,1,1,1
+mx,gynecologist / general practitioner,medical,0,1,1,1
+br,dermatologist,medical,1,1,0,11
+mx,ophthalmologist,medical,0,0,0,23
+br,psychopedagogue,paramedical,1,1,1,7
+br,general surgeon,medical,1,1,1,10
+mx,allergist / pediatrician,medical,0,1,1,1
+br,occupational doctor,medical,1,0,0,1
+br,gynecologist / human reproduction specialist,medical,1,1,1,2
+mx,internist,medical,0,1,0,6
+br,medical clinic specialist / generalist,medical,1,1,1,1
+mx,pediatrician,,1,1,1,2
+br,sports medicine specialist,medical,1,1,1,3
+br,radiotherapist / specialist in aesthetic medicine,medical,1,0,0,1
+mx,psychologist,paramedical,0,0,0,31
+br,psychiatrist / traumatologist and orthopedist,medical,1,0,0,1
+mx,dentist,medical,0,1,1,30
+br,nephrologist / general practitioner,medical,1,1,1,1
+mx,speech therapist,paramedical,1,1,1,3
+br,traumatologist and orthopedist,medical,1,1,1,23
+mx,urologist,medical,1,1,1,10
+mx,general surgeon / proctologist,medical,1,0,0,2
+br,family doctor / homeopath,medical,1,0,0,1
+br,pediatric neurologist / pediatrician,medical,1,1,1,3
+br,cardiologist / medical clinic specialist,medical,1,0,0,5
+br,psychiatrist / ultrasound specialist,medical,1,1,1,1
+mx,dentist / orthodontist,medical,1,0,0,4
+mx,gynecologist,medical,0,1,0,3
+br,vascular surgeon / angiologist,medical,1,0,0,3
+br,psychologist / sexologist,paramedical,1,1,1,6
+br,family doctor / general practitioner,medical,1,1,1,12
+mx,general surgeon / general practitioner,medical,1,0,0,6
+mx,nephrologist / internist,medical,1,0,0,4
+mx,nutrologist / nutritionist / specialist in obesity and thinness,medical,1,1,1,1
+mx,gastroenterologist,medical,0,0,0,5
+br,digestive system surgeon,medical,1,1,0,1
+mx,neurologist,medical,0,0,0,4
+mx,oncologist,medical,0,0,0,3
+mx,cosmetic medicine specialist / general practitioner,medical,1,1,0,1
+mx,endocrinologist,medical,1,1,1,2
+br,cardiologist / nutrologist / general practitioner,medical,1,1,1,1
+br,physical therapist,paramedical,1,0,0,7
+mx,neonatologist / pediatrician,medical,0,0,0,2
+br,endocrinologist / nutritionist,medical,1,0,0,1
+br,cardiologist / general practitioner,medical,1,1,0,4
+br,psychoanalyst,paramedical,0,0,0,4
+br,pediatric rheumatologist / pediatrician,medical,1,0,0,1
+br,dermatologist / specialist in aesthetic medicine,medical,1,0,0,2
+mx,optometrist,medical,1,1,1,4
+mx,complementary therapist / psychoanalyst,paramedical,1,0,0,1
+mx,pediatric cardiologist / pediatrician,medical,1,1,1,4
+br,endocrinologist / general practitioner,medical,1,1,1,4
+br,endocrinologist / nutrologist,medical,1,0,0,1
+br,gynecologist / expert doctor,medical,1,0,0,1
+mx,specialist in obesity and thinness / general practitioner,paramedical,1,1,1,1
+mx,pediatric gastroenterologist / pediatrician,medical,1,1,0,1
+br,gastroenterologist,medical,0,0,0,2
+br,psychiatrist,,1,0,0,1
+mx,periodontologist / dentist,medical,1,1,1,3
+mx,cosmetic medicine specialist,medical,0,1,0,1
+mx,endodontist,medical,1,0,0,1
+mx,urologist / general surgeon,medical,1,1,1,1
+br,endocrinologist,medical,0,0,0,4
+br,nutrologist / family doctor,medical,1,1,1,2
+br,cardiovascular surgeon / general surgeon,medical,1,1,0,1
+br,infectologist / family doctor,medical,1,0,0,1
+br,family doctor / generalist,medical,1,1,0,1
+mx,internist / specialist in obesity and thinness,medical,1,1,1,1
+br,radiologist / psychiatrist,medical,1,1,1,1
+mx,general practitioner / homeopath,medical,1,1,1,1
+br,oncologist,medical,0,0,0,5
+mx,oncologist / internist,medical,1,0,0,2
+br,ultrasound specialist,medical,1,1,1,1
+mx,allergist / immunologist / general practitioner,medical,1,0,0,1
+br,vascular surgeon,,1,0,0,1
+mx,orthopaedic surgeon / orthopedist / general practitioner,medical,1,0,0,1
+br,pediatrician / nutrologist,medical,1,1,1,1
+br,cardiologist / pediatrician,medical,1,0,0,1
+br,family doctor,,1,1,1,1
+mx,infectologist / internist,medical,0,1,1,1
+mx,infectologist / internist / general practitioner,medical,1,1,1,1
+mx,pediatrician / pediatric gastroenterologist,medical,1,1,1,1
+br,psychologist / psychoanalyst / sexologist,paramedical,1,1,1,1
+mx,geriatrician / general practitioner,medical,1,1,0,2
+br,psychiatrist / family doctor / general practitioner,medical,1,1,0,1
+mx,urologist / general surgeon,medical,0,1,0,1
+br,hematologist / general practitioner / medical clinic specialist,medical,1,0,0,1
+br,angiologist,medical,1,1,1,2
+br,acupuncturist / general practitioner,medical,1,0,0,1
+mx,general practitioner,,0,1,1,1
+mx,orthodontist / dentist / physiotherapist,medical,1,1,1,1
+mx,pediatric oncologist / pediatrician / oncologist,medical,0,0,0,1
+br,nutrologist / endoscopist,medical,1,0,0,1
+mx,orthopaedic surgeon / orthopedist,medical,0,0,0,14
+mx,orthopedist / orthopaedic surgeon,paramedical,1,0,0,75
+mx,cardiologist,medical,1,0,0,15
+br,nutritionist,paramedical,1,1,1,34
+mx,dermatologist,medical,0,0,0,9
+mx,oncologist surgeon / general surgeon,medical,1,0,0,9
+mx,general surgeon,medical,1,0,0,53
+br,human reproduction specialist / gynecologist,medical,1,0,0,4
+mx,physical medicine and rehabilitation specialist,paramedical,0,1,1,2
+br,homeopath,medical,1,0,0,5
+mx,physiotherapist,paramedical,1,1,1,41
+br,psychologist,paramedical,0,0,0,16
+br,orthodontist / dentist,paramedical,1,0,0,1
+mx,general practitioner,medical,0,1,1,31
+mx,anesthesiologist / general practitioner,paramedical,1,1,1,1
+mx,ophthalmologist,medical,1,1,1,20
+mx,gynecologist / gynecologist,medical,1,1,0,1
+br,cardiologist / internist,medical,1,0,0,2
+br,vascular surgeon,medical,1,1,0,1
+br,pediatrician,medical,1,0,0,40
+mx,nutritionist / nutrologist,paramedical,0,1,1,8
+mx,acupuncturist / general practitioner,medical,1,1,1,1
+br,nutrologist / oncologist surgeon,medical,1,0,0,1
+br,vascular surgeon / general surgeon,medical,1,0,0,1
+mx,neurologist / internist,medical,1,1,1,2
+br,traumatologist and orthopedist,medical,1,1,0,17
+br,complementary therapist / psychoanalyst,paramedical,1,1,1,4
+mx,clinical nutritionist / general practitioner,paramedical,1,1,1,1
+br,speech therapist,paramedical,0,1,0,1
+mx,radiologist,medical,1,1,1,8
+br,cardiologist / general practitioner / medical clinic specialist,medical,1,1,1,1
+br,urologist,medical,1,1,1,19
+mx,geriatrician,medical,1,1,1,9
+mx,family doctor,medical,0,1,1,5
+br,pediatrician / pediatric rheumatologist,medical,1,1,1,1
+br,otolaryngologist,medical,1,1,0,4
+mx,pain management specialist / anesthesiologist,medical,1,1,0,1
+mx,geriatrician,medical,0,1,0,1
+mx,rheumatologist / internist,medical,0,0,0,1
+mx,endodontist / dentist,medical,1,1,0,2
+mx,pediatric endocrinologist,medical,1,1,1,1
+mx,pediatric surgeon / pediatrician,medical,0,1,0,1
+br,generalist / dermatologist,medical,1,1,0,1
+mx,pediatric dermatologist / pediatrician,medical,1,0,0,1
+br,mastologist,medical,1,0,0,7
+br,angiologist / vascular surgeon,medical,1,1,1,2
+mx,nutritionist,paramedical,1,1,0,2
+br,neurosurgeon / neurologist,medical,1,1,1,2
+mx,cardiologist / general practitioner,medical,0,1,1,2
+mx,gynecologist / general practitioner,medical,0,1,0,1
+mx,internist / specialist in critical medicine and intensive care,medical,0,1,0,2
+mx,general practitioner / cosmetic medicine specialist,medical,1,1,1,3
+br,cardiologist,,1,1,1,2
+mx,gastroenterologist / general surgeon,medical,1,0,0,1
+br,pain management specialist / anesthesiologist,medical,1,1,1,1
+br,psychologist / psychopedagogue,paramedical,1,0,0,1
+mx,dentist / periodontologist,medical,0,0,0,1
+mx,anesthesiologist / pain management specialist,paramedical,0,0,0,2
+mx,orthopedist,paramedical,1,1,1,1
+br,occupational therapist,paramedical,1,1,0,1
+mx,pediatric cardiologist / specialty in critically ill pediatric medicine,medical,0,0,0,1
+br,acupuncturist / radiologist,medical,1,1,1,1
+br,family doctor / general practitioner / generalist,medical,1,0,0,1
+br,pediatric cardiologist,medical,0,0,0,1
+br,psychoanalyst / psychologist,paramedical,1,1,0,2
+br,psychiatrist / family doctor / psychoanalyst,medical,1,1,1,1
+br,pediatrician / family doctor,medical,1,0,0,1
+mx,allergist / immunologist / pediatrician,medical,1,1,0,1
+mx,audiologist / phoniatrician,paramedical,1,1,1,2
+mx,otorhinolaryngologist,medical,0,1,1,3
+br,head and neck surgeon,medical,1,1,1,1
+br,ophthalmologist / generalist,medical,1,1,1,1
+br,psychiatrist / general practitioner,medical,1,1,0,1
+br,pediatric nephrologist / pediatrician,medical,1,0,0,1
+mx,nutritionist / specialist in obesity and thinness,paramedical,1,1,1,1
+mx,general practitioner / physiotherapist,medical,0,0,0,1
+br,general practitioner / internist,medical,1,1,0,1
+br,acupuncturist,medical,1,1,0,1
+br,endoscopist / gastroenterologist,medical,1,0,0,2
+br,ophthalmologist / general practitioner,medical,1,0,0,1
+mx,psychiatrist / sexologist,medical,0,1,1,1
+br,general practitioner / hematologist,medical,1,0,0,1
+mx,podiatrist,paramedical,1,1,1,3
+mx,hematologist / internist,medical,1,1,1,1
+br,hematologist / general practitioner,medical,1,1,0,1
+br,general practitioner / pediatrician,medical,1,0,0,1
+br,cardiovascular surgeon / internist,medical,1,0,0,1
+mx,nutritionist / clinical nutritionist,paramedical,1,1,0,1
+mx,internist / specialist in obesity and thinness / general practitioner,medical,1,1,1,1
+mx,clinical geneticist,medical,1,1,1,2
+mx,pediatrician / general practitioner,medical,1,1,0,1
+br,digestive system surgeon / endoscopist / general surgeon,medical,1,0,0,1
+br,gastroenterologist / internist,medical,1,0,0,1
+mx,acupuncturist / integrated medicine specialist / general practitioner,medical,0,1,0,1
+br,otolaryngologist / homeopath,medical,1,1,0,1
+br,homeopath / pediatrician,medical,1,1,1,1
+br,pediatrician / pediatric infectologist,medical,1,0,0,1
+br,general practitioner / nephrologist,medical,0,1,1,1
+br,general practitioner,medical,1,1,1,124
+mx,psychologist,paramedical,1,1,1,464
+br,dermatologist,medical,1,0,0,50
+mx,dentist,medical,1,0,0,77
+br,nutrologist,medical,1,1,1,21
+br,gynecologist,medical,1,0,0,108
+br,psychologist / psychoanalyst,paramedical,1,1,1,50
+br,digestive system surgeon,medical,1,0,0,8
+mx,pediatric  respiratory physician / pediatrician,medical,1,1,1,5
+mx,gynecologist,medical,0,0,0,33
+br,traumatologist and orthopedist / pain management specialist,medical,0,0,0,2
+br,family doctor,medical,1,1,1,41
+mx,neurosurgeon,medical,0,0,0,13
+mx,otorhinolaryngologist,medical,1,1,0,10
+br,cardiologist / general practitioner,medical,1,1,1,10
+mx,anesthesiologist / specialist in critical medicine and intensive care / pain management specialist,paramedical,1,1,1,1
+mx,bariatric surgeon / general surgeon,medical,1,0,0,2
+br,pulmonologist / medical clinic specialist,medical,1,1,1,1
+br,dermatologist / general practitioner,medical,0,0,0,1
+br,vascular surgeon,medical,1,0,0,12
+br,coloproctologist / general surgeon,medical,1,1,1,2
+br,gynecologist / occupational doctor,medical,1,1,0,1
+mx,oncologist / general practitioner,medical,1,1,0,1
+mx,educational psychologist,paramedical,1,1,1,4
+br,plastic surgeon,medical,0,0,0,4
+mx,pediatric surgeon,medical,1,1,1,1
+mx,endoscopist / general surgeon,medical,1,0,0,1
+br,geriatrician / infectologist / medical clinic specialist,medical,1,0,0,1
+br,hand surgeon / traumatologist and orthopedist,medical,1,0,0,1
+br,orthodontist,paramedical,1,1,1,1
+br,general surgeon,medical,0,0,0,2
+mx,allergist,medical,1,0,0,2
+br,physical educator,paramedical,1,0,0,1
+mx,respiratory physician,medical,0,0,0,2
+mx,plastic surgeon,medical,0,0,0,6
+br,gynecologist / mastologist,medical,1,1,1,1
+mx,speech therapist,paramedical,0,0,0,1
+mx,dentist / endodontist / periodontologist,medical,0,0,0,1
+mx,neurologist,medical,1,1,1,2
+br,general practitioner / sexologist,medical,1,1,1,1
+mx,psychoanalyst / psychologist,medical,1,1,1,6
+br,nephrologist,medical,0,0,0,2
+mx,radiologist,medical,0,1,0,2
+br,gastroenterologist / general practitioner,medical,1,1,1,2
+mx,gynecologist / general practitioner,medical,1,1,1,3
+br,geriatrician,,1,0,0,1
+br,geriatrician,medical,1,1,0,4
+mx,respiratory physician / internist,medical,1,1,1,1
+mx,psychologist / psychoanalyst,paramedical,1,1,1,2
+mx,nephrologist / diabetologist,medical,0,0,0,1
+br,general surgeon / thoracic surgeon,medical,1,1,1,1
+br,endocrinologist / pediatric endocrinologist / preventive medicine specialist,medical,1,1,0,1
+mx,otorhinolaryngologist / general practitioner,medical,1,0,0,2
+br,head and neck surgeon,medical,1,1,0,1
+mx,nephrologist / internist,medical,1,1,0,1
+br,occupational doctor / general practitioner / generalist,medical,1,1,1,1
+mx,neonatologist / pediatrician,medical,1,1,1,2
+br,generalist / general practitioner / gastroenterologist,medical,1,1,1,1
+br,allergist / pulmonologist,medical,1,1,1,1
+mx,pediatrician / pediatric  respiratory physician / general practitioner,medical,0,0,0,1
+br,sports medicine specialist,medical,1,1,0,1
+mx,infectologist / pediatrician,medical,1,1,0,1
+mx,psychologist / psychiatrist,paramedical,1,1,1,1
+br,pediatric hematologist,medical,1,0,0,1
+mx,internist,,1,1,0,1
+mx,internist / geriatrician,medical,0,0,0,1
+mx,nutritionist / nutrologist,paramedical,1,1,0,2
+br,endocrinologist,medical,0,1,0,1
+mx,neurophysiologist / pediatric neurologist / pediatrician,medical,1,1,1,1
+mx,pediatric cardiologist,medical,1,1,1,1
+mx,general practitioner / occupational doctor,medical,1,1,0,1
+mx,vascular surgeon / general surgeon,medical,1,1,0,1
+mx,neurosurgeon / general practitioner,medical,0,1,1,1
+br,thoracic surgeon,medical,1,1,1,2
+mx,cosmetic medicine specialist,medical,0,0,0,1
+br,pediatric endocrinologist / pediatrician,medical,0,0,0,2
+br,allergist / pediatric allergist,medical,1,1,1,1
+br,family doctor / traffic doctor,medical,1,0,0,1
+mx,proctologist / general surgeon,medical,0,0,0,1
+br,pediatric cardiologist,medical,1,0,0,1
+br,nephrologist / internist / general practitioner,medical,1,1,1,1
+br,pulmonologist / family doctor,medical,1,1,0,1
+br,family doctor,medical,1,1,0,12
+br,otolaryngologist,medical,1,0,0,23
+mx,gynecologist,medical,1,1,1,75
+mx,nutrologist / nutritionist,medical,1,1,1,38
+mx,nutrologist / specialist in obesity and thinness,medical,0,0,0,1
+br,psychiatrist,medical,1,0,0,140
+br,plastic surgeon,medical,1,1,1,12
+br,cardiologist,medical,1,1,1,47
+mx,cardiologist,medical,1,1,0,5
+mx,psychologist / sexologist,paramedical,0,1,1,1
+br,general practitioner / generalist,medical,1,0,0,9
+br,neurologist,medical,1,1,1,28
+mx,pain management specialist / anesthesiologist,medical,1,0,0,4
+mx,pediatric dentist,medical,1,0,0,1
+mx,family doctor / general practitioner,medical,0,1,1,2
+br,dentist / orthodontist,paramedical,1,0,0,1
+mx,orthopedist / orthopaedic surgeon,paramedical,1,1,0,9
+mx,orthopaedic surgeon / orthopedist,medical,0,1,0,5
+br,geriatrician / general practitioner,medical,1,1,1,3
+br,family doctor / generalist,medical,1,1,1,2
+mx,general surgeon,medical,0,1,1,10
+mx,infectologist / internist,medical,1,0,0,2
+br,nephrologist,medical,1,1,1,15
+mx,cardiologist / internist / general practitioner,medical,1,1,1,1
+mx,nutrologist / psychologist,medical,1,1,1,1
+mx,audiologist,paramedical,1,1,1,2
+br,acupuncturist,medical,1,0,0,4
+mx,implantologist / dentist,medical,1,1,1,1
+br,anesthesiologist,medical,1,1,1,1
+br,pediatric pulmonologist / pediatrician,medical,1,0,0,1
+mx,gynecologist / gynecologist,medical,1,0,0,4
+mx,nutrologist / nutritionist,medical,1,1,0,9
+br,generalist / general practitioner,medical,1,1,1,15
+br,general practitioner / psychiatrist,medical,1,1,1,6
+br,mastologist,medical,1,1,0,1
+mx,physiotherapist,paramedical,0,0,0,14
+br,orofacial harmonization specialist,paramedical,1,0,0,1
+mx,gynecologist / general practitioner,medical,0,0,0,3
+br,urologist,medical,0,0,0,1
+mx,optometrist,medical,0,1,1,2
+br,physical therapist / psychoanalyst,paramedical,1,0,0,1
+br,psychiatrist / general practitioner,medical,1,1,1,3
+mx,psychologist / sexologist,paramedical,1,1,1,2
+br,allergist,medical,1,1,1,3
+mx,nutritionist,paramedical,1,0,0,1
+br,gynecologist / homeopath,medical,1,1,1,1
+mx,pediatric dentist / dentist,medical,1,1,1,4
+mx,geriatrician,medical,0,0,0,7
+mx,orthopedist / general practitioner,paramedical,0,1,0,1
+br,endocrinologist / family doctor,medical,1,1,1,2
+br,pediatric allergist,medical,1,1,1,1
+br,gastroenterologist / endoscopist,medical,1,1,1,1
+mx,psychoanalyst,medical,1,1,1,2
+mx,optometrist,medical,1,0,0,3
+br,pulmonologist,medical,1,1,0,6
+br,coloproctologist / general surgeon,medical,0,0,0,1
+br,pain management specialist / anesthesiologist / acupuncturist,medical,1,0,0,1
+mx,general practitioner / ophthalmologist,medical,1,1,0,1
+br,general practitioner / family doctor / generalist,medical,1,1,0,1
+mx,endodontist / dentist,medical,1,0,0,3
+mx,anesthesiologist,paramedical,1,0,0,1
+br,pediatric gastroenterologist / pediatrician,medical,1,1,1,1
+mx,pediatric surgeon,medical,1,1,0,1
+br,medical clinic specialist / internist,medical,1,1,0,1
+br,nutrologist / endocrinologist,medical,1,0,0,1
+br,radiologist / diagnostic radiologist,medical,1,1,1,1
+mx,clinical nutritionist / nutritionist / nutrologist,paramedical,1,1,1,3
+br,endoscopist / general surgeon,medical,1,0,0,1
+br,traumatologist and orthopedist / ultrasound specialist,medical,1,1,1,1
+mx,dermatologist / emergency medicine specialist,medical,1,0,0,1
+mx,hematologist / general practitioner / internist,medical,1,0,0,1
+br,psychiatrist / nutrologist / generalist,medical,1,1,1,1
+mx,respiratory physician / general practitioner,medical,0,1,1,1
+br,intensive medicine specialist / generalist,medical,1,1,1,1
+br,chiropractor / physical therapist / osteopath,paramedical,1,1,0,1
+br,hand surgeon / traumatologist and orthopedist,medical,1,1,0,1
+mx,general surgeon / endoscopist / general practitioner,medical,0,0,0,1
+mx,geriatrician / general practitioner,medical,0,1,1,1
+br,nutrologist / family doctor / general practitioner,medical,1,1,1,1
+mx,internist / nephrologist,medical,1,1,1,1
+mx,pediatrician / allergist,medical,0,0,0,1
+br,gynecologist / expert doctor / occupational doctor,medical,1,1,0,1
+mx,integrated medicine specialist / general practitioner,paramedical,1,1,1,1
+mx,pediatric hematologist / pediatrician,medical,0,0,0,1
+br,occupational therapist,paramedical,1,0,0,1
+mx,pediatrician / general practitioner,medical,1,0,0,1
+mx,specialist in obesity and thinness / family doctor,paramedical,1,1,1,1
+br,traumatologist and orthopedist / occupational doctor,medical,1,0,0,1
+br,geriatrician / medical clinic specialist,medical,1,0,0,1
+br,specialist in aesthetic medicine / dermatologist,medical,1,0,0,1
+br,hematologist / general practitioner,medical,1,0,0,1
+br,diagnostic radiologist / gynecologist,medical,1,1,0,1
+br,medical clinic specialist / general practitioner / internist,medical,1,1,0,1
+mx,allergist / internist,medical,1,0,0,1
+mx,family doctor,medical,0,0,0,3
+br,psychologist,paramedical,1,1,0,74
+mx,orthopedist / orthopaedic surgeon,paramedical,0,0,0,25
+br,dentist / orthodontist,paramedical,1,1,1,1
+mx,physiotherapist,paramedical,1,0,0,19
+br,psychiatrist,medical,1,1,1,172
+br,general practitioner / generalist,medical,1,1,1,12
+br,gynecologist,medical,1,1,0,27
+mx,radiation oncologist / radiotherapist,medical,1,0,0,3
+mx,geriatrician,medical,0,1,1,3
+mx,psychiatrist,medical,1,1,0,7
+br,pediatric cardiologist,medical,1,1,0,1
+br,endocrinologist / medical clinic specialist,medical,1,0,0,2
+br,nutritionist / physical educator,paramedical,1,1,1,1
+mx,allergist / immunologist,medical,1,0,0,2
+br,pediatric neurologist,medical,1,0,0,7
+mx,pediatric gastroenterologist / pediatrician,medical,0,0,0,1
+mx,dentist,medical,1,1,0,19
+mx,gastroenterologist,medical,0,1,1,3
+br,oral and maxillofacial surgeon,paramedical,1,1,1,1
+mx,respiratory physician,medical,0,1,1,1
+br,neurosurgeon,medical,1,1,1,5
+br,complementary therapist,paramedical,1,0,0,5
+mx,orthodontist / dentist,medical,1,1,1,20
+mx,bariatric surgeon / general surgeon,medical,1,1,1,2
+mx,hematologist,medical,1,1,0,3
+br,endocrinologist / occupational doctor / general practitioner,medical,1,1,1,1
+br,cardiologist,medical,1,1,0,9
+br,occupational therapist,paramedical,1,1,1,3
+mx,plastic surgeon / cosmetic surgeon,medical,1,1,1,1
+br,oral and maxillofacial surgeon / dentist,paramedical,1,0,0,1
+br,acupuncturist,medical,1,1,1,1
+br,geriatrician / medical clinic specialist,medical,1,1,1,4
+mx,specialist in critical medicine and intensive care / general practitioner,paramedical,1,1,0,1
+mx,plastic surgeon,medical,0,1,0,2
+mx,psychoanalyst / psychologist,medical,1,0,0,1
+br,family doctor / psychiatrist / nutrologist,medical,1,0,0,1
+mx,specialist in critical medicine and intensive care / emergency medicine specialist / general practitioner,paramedical,1,1,1,1
+mx,pediatric surgeon / pediatrician,medical,0,1,1,1
+mx,psychologist / sexologist,paramedical,0,1,0,1
+mx,general surgeon / general practitioner,medical,1,1,1,2
+br,specialist in aesthetic medicine / medical clinic specialist,medical,1,0,0,1
+mx,internist / clinical nutritionist,medical,1,1,1,1
+mx,clinical geneticist,medical,1,0,0,2
+br,family doctor,medical,0,0,0,2
+mx,neonatologist / pediatrician,medical,0,1,1,2
+mx,infectologist / pediatrician,medical,0,0,0,1
+mx,chiropractor,paramedical,1,0,0,4
+mx,endoscopist / general surgeon / bariatric surgeon,medical,1,1,1,1
+mx,vascular surgeon / general surgeon / angiologist,medical,0,1,0,1
+br,dermatologist,medical,0,0,0,3
+br,pediatric gastroenterologist / pediatric nutritionist,medical,1,0,0,1
+mx,radiologist,medical,1,0,0,3
+br,rheumatologist / generalist,medical,1,1,0,1
+br,general surgeon / oncologist surgeon,medical,1,0,0,2
+mx,dentist / orthodontist,medical,0,0,0,4
+mx,rheumatologist,medical,1,1,1,3
+mx,cosmetic medicine specialist / general practitioner,medical,1,1,1,2
+mx,neonatologist / pediatrician,medical,1,0,0,1
+br,psychiatrist / family doctor,medical,1,0,0,5
+br,otolaryngologist / sleep doctor,medical,1,1,1,1
+br,pediatric allergist,medical,1,1,0,1
+mx,thoracic surgeon,medical,0,0,0,1
+br,endocrinologist,medical,0,1,1,1
+br,endocrinologist / nutrologist,medical,1,1,1,2
+br,neurologist / sleep doctor / neurophysiologist,medical,1,1,1,1
+br,endocrinologist / generalist,medical,1,1,1,1
+br,nutrologist / psychiatrist,medical,1,1,1,1
+br,geriatrician,medical,0,0,0,1
+br,cardiovascular surgeon / general surgeon,medical,1,1,1,1
+br,psychiatrist / medical clinic specialist / diagnostic radiologist,medical,1,0,0,1
+br,pediatrician / ophthalmologist / pain management specialist,medical,1,0,0,1
+br,pediatric hematologist,medical,1,1,1,1
+mx,geriatrician / general practitioner,medical,0,1,0,1
+br,neurosurgeon / neurologist,medical,1,0,0,1
+br,pediatric cardiologist / pediatrician,medical,1,1,1,2
+br,nephrologist / medical clinic specialist,medical,1,1,1,2
+mx,cardiologist,medical,0,1,0,1
+mx,internist / rheumatologist,medical,0,0,0,1
+mx,nutritionist / specialist in obesity and thinness / general practitioner,paramedical,1,0,0,1
+br,pediatrician / allergist,medical,1,0,0,1
+mx,anesthesiologist / cosmetic medicine specialist,paramedical,0,1,1,1
+mx,cardiologist / internist,medical,1,1,0,2
+mx,pain management specialist / anesthesiologist,medical,1,1,1,3
+mx,nutritionist / nutrologist,paramedical,0,0,0,1
+mx,pediatric rheumatologist / pediatrician,medical,1,0,0,1
+br,pain management specialist / anesthesiologist,medical,1,0,0,1
+br,nutrologist / medical clinic specialist,medical,1,0,0,1
+mx,speech therapist,paramedical,0,1,1,1
+br,preventive medicine specialist / dermatologist,medical,1,1,1,1
+br,family doctor / geriatrician,medical,1,1,1,1
+mx,physical medicine and rehabilitation specialist,paramedical,0,0,0,2
+mx,nephrologist / internist / general practitioner,medical,0,0,0,1
+mx,pediatrician / pediatric gastroenterologist,medical,0,1,0,1
+br,family doctor / generalist / general practitioner,medical,1,0,0,1
+mx,oncologist surgeon / general surgeon,medical,0,0,0,5
+mx,orthopedist / orthopaedic surgeon / general practitioner,paramedical,1,0,0,3
+mx,respiratory physician,medical,1,1,0,6
+br,urologist / general surgeon,medical,1,1,1,3
+mx,oncologist,medical,0,1,1,1
+mx,pediatrician,medical,1,0,0,31
+mx,nutrologist / nutritionist,medical,1,0,0,15
+br,psychologist / psychoanalyst,paramedical,1,0,0,9
+mx,internist,medical,1,1,0,22
+br,coloproctologist,medical,1,0,0,6
+mx,cardiovascular and thoracic surgeon / general surgeon / general practitioner,medical,1,1,1,1
+br,complementary therapist,paramedical,1,1,1,11
+br,thoracic surgeon,medical,1,0,0,6
+mx,pediatric surgeon,medical,1,0,0,7
+mx,psychologist,paramedical,1,0,0,66
+mx,urologist,medical,1,1,0,4
+mx,gynecologist,medical,1,1,0,17
+br,sexologist,medical,1,1,1,2
+br,gastroenterologist,medical,1,0,0,19
+br,pulmonologist,medical,1,0,0,8
+mx,chiropractor,paramedical,1,1,1,2
+br,family doctor,medical,1,0,0,25
+br,dermatologist / oncologist,medical,1,1,1,1
+mx,allergist,medical,0,0,0,1
+br,allergist,medical,1,0,0,3
+mx,gastroenterologist / internist / general practitioner,medical,1,1,1,1
+mx,oncologist surgeon / general surgeon / general practitioner,medical,1,0,0,1
+br,coloproctologist / general surgeon,medical,1,0,0,3
+br,nephrologist,medical,1,1,0,2
+mx,dentist / orthodontist,medical,1,1,1,11
+mx,orthopedist,paramedical,1,0,0,4
+mx,maxillofacial surgeon / dentist / implantologist,medical,1,0,0,1
+br,mastologist / general practitioner,medical,0,0,0,1
+mx,homeopath,medical,1,0,0,2
+br,general practitioner / nutrologist,medical,1,1,1,1
+br,vascular surgeon / angiologist,medical,1,1,1,2
+mx,neurosurgeon,medical,1,1,0,3
+br,endocrinologist,medical,1,1,0,6
+mx,dentist / implantologist,medical,1,1,1,4
+br,nutritionist,paramedical,0,1,1,1
+mx,psychologist / psychoanalyst,paramedical,0,1,1,2
+br,oncologist / general practitioner,medical,1,0,0,2
+mx,maxillofacial surgeon / dentist,medical,0,0,0,2
+br,nephrologist / intensive medicine specialist,medical,1,1,0,1
+br,family doctor / general practitioner,medical,1,1,0,1
+mx,nutrologist,medical,0,1,1,5
+br,speech therapist,paramedical,1,1,1,4
+br,hand surgeon,medical,0,0,0,1
+mx,internist / general practitioner,medical,0,1,1,1
+mx,hand surgeon / orthopedist / orthopaedic surgeon,medical,1,1,0,1
+br,pulmonologist / thoracic surgeon,medical,1,1,0,1
+mx,otorhinolaryngologist,medical,0,1,0,2
+br,pediatric infectologist,medical,1,0,0,1
+br,endocrinologist / medical clinic specialist,medical,1,1,1,4
+mx,specialist in critical medicine and intensive care / internist,paramedical,1,1,0,1
+mx,pediatric  respiratory physician / pediatrician,medical,1,0,0,1
+br,plastic surgeon,medical,1,1,0,5
+mx,gynecologist / urology gynecologist,medical,1,1,0,1
+mx,geriatrician / internist,medical,1,1,1,1
+mx,geriatrician,medical,1,1,0,2
+br,geriatrician,medical,1,1,1,11
+br,generalist,medical,0,1,0,1
+mx,family doctor,medical,1,1,1,5
+mx,clinical nutritionist,paramedical,1,0,0,1
+br,generalist / gynecologist,medical,1,1,1,1
+mx,endodontist / dentist,medical,0,1,0,1
+br,cardiologist / general practitioner,medical,0,0,0,1
+br,family doctor / endocrinologist,medical,1,1,1,1
+br,chiropractor / homeopath / complementary therapist,paramedical,1,1,1,1
+br,pediatrician / occupational doctor,medical,1,0,0,1
+mx,internist / infectologist,medical,0,1,1,1
+br,specialist in physical medicine and rehabilitation,medical,1,1,0,2
+mx,gynecologist / gynecologist,medical,0,1,1,1
+br,digestive system surgeon / gastroenterologist,medical,1,0,0,1
+br,pediatric nephrologist,medical,1,0,0,2
+mx,educational psychologist,paramedical,0,0,0,1
+br,general practitioner / cardiologist,medical,1,0,0,1
+mx,pediatric dentist,medical,0,1,0,1
+mx,internist / geriatrician,medical,1,1,0,1
+mx,sexologist / psychologist,paramedical,0,1,1,1
+br,intensive medicine specialist / generalist,medical,1,1,0,1
+mx,complementary therapist,paramedical,0,1,1,2
+mx,angiologist,medical,0,0,0,1
+mx,optometrist,medical,0,1,0,1
+mx,radiation oncologist,medical,1,1,1,1
+br,general practitioner / family doctor / cardiologist,medical,1,1,1,1
+mx,cardiovascular and thoracic surgeon / general surgeon,medical,1,0,0,1
+mx,pediatric surgeon / pediatrician,medical,1,1,0,1
+br,geriatrician / acupuncturist,medical,1,0,0,1
+br,anesthesiologist,medical,1,0,0,1
+br,pediatric pulmonologist,medical,0,0,0,1
+mx,pediatric nephrologist / pediatrician,medical,1,0,0,1
+mx,occupational therapist,paramedical,1,1,0,1
+mx,nutrologist / psychologist / specialist in obesity and thinness,medical,1,1,1,1
+br,psychiatrist / general practitioner / generalist,medical,1,1,1,1
+br,psychiatrist,medical,0,0,0,12
+br,psychiatrist / psychoanalyst,medical,1,0,0,1
+br,psychologist,paramedical,1,1,1,576
+br,dermatologist,medical,1,1,1,56
+mx,psychologist,paramedical,0,1,1,135
+br,medical clinic specialist,medical,1,0,0,18
+br,generalist / psychiatrist,medical,1,1,1,2
+br,physical therapist,paramedical,1,1,1,21
+mx,orthopedist / orthopaedic surgeon,paramedical,1,1,1,17
+br,dermatologist / family doctor / general practitioner,medical,1,0,0,1
+br,complementary therapist / psychopedagogue,paramedical,1,0,0,1
+br,geriatrician / family doctor,medical,1,1,1,1
+mx,psychiatrist,medical,1,0,0,13
+mx,cardiologist,medical,0,0,0,8
+mx,nutritionist / nutrologist,paramedical,1,1,1,14
+mx,gastroenterologist,medical,0,1,0,2
+mx,endocrinologist / general practitioner,medical,0,0,0,2
+br,occupational doctor,medical,1,1,1,1
+mx,physiotherapist,paramedical,1,1,0,10
+mx,oncologist,medical,0,1,0,1
+mx,pediatric psychiatrist / psychiatrist,medical,1,1,1,2
+br,pain management specialist,medical,1,1,1,4
+br,pediatrician,medical,1,1,1,60
+br,pediatrician / psychiatrist,medical,1,1,1,1
+br,pediatric rheumatologist / pediatrician,medical,1,1,1,1
+br,gastroenterologist / endoscopist,medical,1,0,0,3
+mx,general surgeon / general practitioner,medical,0,0,0,4
+br,general practitioner / endocrinologist,medical,1,0,0,1
+mx,specialist in obesity and thinness / internist,paramedical,1,1,1,2
+mx,radiologist,medical,1,1,0,1
+mx,hematologist,medical,1,0,0,5
+br,psychologist / complementary therapist,paramedical,1,1,1,2
+br,general practitioner / psychiatrist / psychoanalyst,medical,1,0,0,1
+br,homeopath,medical,1,1,1,4
+mx,cardiologist / internist,medical,1,0,0,4
+mx,angiologist / vascular surgeon / general surgeon,medical,1,0,0,1
+mx,orthopedist,paramedical,1,1,0,1
+mx,specialist in critical medicine and intensive care,paramedical,0,0,0,2
+br,gynecologist / generalist,medical,1,0,0,2
+br,general practitioner / nephrologist,medical,1,1,1,1
+br,traumatologist and orthopedist,medical,0,0,0,5
+br,neurologist / pain management specialist,medical,1,0,0,1
+br,psychiatrist / occupational doctor,medical,1,0,0,2
+br,psychiatrist,,1,1,1,1
+mx,general surgeon / specialist in obesity and thinness,medical,1,0,0,1
+mx,dentist / implantologist / pediatric dentist,medical,1,0,0,1
+br,geriatrician / pain management specialist / sports medicine specialist,medical,1,1,1,1
+br,oral and maxillofacial surgeon,paramedical,0,0,0,1
+br,cardiologist / medical clinic specialist,medical,1,1,0,1
+mx,endoscopist / general surgeon,medical,0,0,0,1
+br,acupuncturist,medical,0,0,0,2
+mx,family doctor / general practitioner,medical,0,0,0,1
+mx,dentist / pediatric dentist,medical,1,1,1,3
+br,complementary therapist / psychoanalyst,paramedical,1,1,0,1
+mx,nephrologist,medical,0,1,1,1
+br,digestive system surgeon / general surgeon / coloproctologist,medical,1,0,0,1
+mx,pediatrician / pediatric gastroenterologist,medical,1,0,0,2
+br,general practitioner / geriatrician / occupational doctor,medical,1,1,0,1
+mx,specialist in obesity and thinness,paramedical,1,1,1,2
+mx,"",,1,0,0,1
+mx,complementary therapist / nutritionist / clinical nutritionist,paramedical,1,1,1,1
+mx,pediatric dermatologist,medical,1,1,1,2
+br,occupational therapist,paramedical,0,0,0,2
+br,psychiatrist / complementary therapist,medical,1,0,0,1
+br,neurophysiologist / neurologist,medical,1,1,0,1
+mx,dermatologist / general practitioner,medical,0,1,1,1
+mx,orthopaedic surgeon / orthopedist,medical,0,1,1,4
+br,nurse / complementary therapist,paramedical,1,1,0,1
+mx,clinical nutritionist,paramedical,1,1,0,2
+mx,pediatric dermatologist,,0,0,0,1
+mx,dermatologist,medical,1,1,0,1
+mx,allergist,medical,1,1,1,2
+br,pediatric cardiologist,medical,1,1,1,1
+mx,internist / hematologist,medical,0,0,0,1
+br,psychoanalyst / generalist,paramedical,1,1,1,1
+br,acupuncturist / pain management specialist,medical,1,0,0,1
+br,generalist / family doctor,medical,1,1,1,1
+mx,nutritionist / nutrologist,paramedical,0,1,0,1
+mx,general practitioner / homeopath,medical,1,0,0,1
+br,general practitioner / medical clinic specialist,medical,1,0,0,1
+br,pediatric infectologist / pediatrician,medical,1,1,1,1
+mx,clinical geneticist,medical,1,1,0,1
+br,homeopath / pediatrician,medical,1,1,0,1
+br,nutrologist,,1,0,0,1
+mx,pathologist,medical,1,1,1,1
+br,pediatric allergist,medical,1,0,0,1
+mx,pediatric rheumatologist / pediatrician,medical,1,1,0,1
+br,hematologist,medical,1,0,0,17
+br,gynecologist,medical,1,1,1,97
+mx,ophthalmologist,medical,1,0,0,54
+br,vascular surgeon,medical,1,1,1,8
+br,nutrologist,medical,1,0,0,19
+br,pediatrician,medical,1,1,0,26
+mx,gynecologist,medical,0,1,1,28
+mx,vascular surgeon / angiologist,medical,1,0,0,1
+mx,urologist,medical,0,0,0,13
+mx,pediatric neurologist,medical,0,0,0,1
+mx,cardiologist,medical,1,1,1,19
+br,dentist,paramedical,1,1,0,11
+mx,internist,medical,0,1,1,10
+mx,orthodontist / dentist,medical,0,1,0,1
+mx,neurosurgeon,medical,0,1,1,2
+br,general practitioner / infectologist,medical,1,1,1,2
+br,urologist,medical,1,0,0,26
+mx,pediatric dermatologist / pediatrician,medical,1,1,1,1
+br,family doctor / general practitioner / generalist,medical,1,1,1,2
+mx,clinical nutritionist / nutrologist / nutritionist,paramedical,1,1,0,1
+br,oncologist surgeon,medical,1,1,0,1
+br,nutritionist,paramedical,1,0,0,28
+mx,rheumatologist,medical,0,0,0,2
+mx,general surgeon / gastroenterologist,medical,1,0,0,1
+br,specialist in aesthetic medicine,medical,1,1,1,3
+mx,homeopath / general practitioner,medical,0,0,0,1
+br,infectologist,medical,1,1,0,3
+mx,pediatric dentist,medical,1,1,1,5
+mx,nutritionist,paramedical,0,0,0,4
+mx,pediatric cardiologist / pediatrician,medical,0,1,1,1
+br,dermatologist / endocrinologist,medical,1,1,1,1
+br,preventive medicine specialist,medical,1,1,1,2
+mx,psychiatrist,medical,0,1,1,7
+br,hand surgeon / traumatologist and orthopedist,medical,1,1,1,3
+mx,nutritionist,paramedical,1,1,1,7
+br,pediatric surgeon,medical,1,1,0,1
+mx,internist / allergist,medical,1,1,0,1
+br,rheumatologist / medical clinic specialist,medical,1,0,0,1
+br,pediatrician / homeopath,medical,1,1,1,1
+br,otolaryngologist,medical,0,0,0,1
+br,general surgeon / digestive system surgeon,medical,1,0,0,2
+mx,bariatric surgeon / general surgeon,medical,0,1,1,1
+br,cardiovascular surgeon,medical,1,1,1,2
+br,cardiologist / internist,medical,1,1,0,1
+mx,plastic surgeon / general surgeon,medical,0,0,0,1
+mx,endodontist / dentist,medical,1,1,1,2
+mx,family doctor / general practitioner,medical,1,1,1,2
+mx,pediatric hematologist / pediatrician,medical,1,0,0,1
+br,physical therapist,paramedical,0,0,0,3
+br,"",,1,0,0,3
+br,rheumatologist / internist,medical,1,1,1,1
+br,psychiatrist / medical clinic specialist,medical,1,0,0,1
+br,cardiologist / general practitioner / nutrologist,medical,0,0,0,1
+br,pain management specialist / generalist,medical,1,1,1,1
+br,mastologist / oncologist surgeon,medical,1,1,1,1
+mx,allergist / immunologist / pediatrician,medical,0,0,0,2
+br,homeopath / general practitioner,medical,1,0,0,1
+br,general surgeon / nutrologist,medical,1,1,1,1
+br,nutrologist / dermatologist,medical,1,1,0,1
+mx,proctologist / general surgeon,medical,1,1,1,1
+br,intensive medicine specialist,medical,1,1,0,1
+br,gastroenterologist / hepatologist,medical,0,0,0,1
+br,diagnostic radiologist,medical,1,0,0,1
+mx,allergist / pediatrician,medical,1,0,0,1
+br,endoscopist / gastroenterologist,medical,1,1,0,1
+mx,audiologist,paramedical,0,1,1,1
+mx,gynecologist / gynecologist,medical,0,0,0,1
+br,general surgeon / urologist,medical,1,0,0,1
+br,gynecologist / specialist in aesthetic medicine,medical,1,0,0,1
+br,head and neck surgeon / otolaryngologist,medical,1,0,0,1
+mx,endodontist / dentist,medical,0,0,0,1
+mx,general practitioner / homeopath,medical,0,1,1,1
+mx,bariatric surgeon / endoscopist / general surgeon,medical,1,0,0,1
+br,homeopath,medical,1,1,0,1
+mx,orthopaedic surgeon / orthopedist,medical,1,1,0,6
+mx,psychologist,paramedical,1,1,0,58
+br,cardiologist,medical,1,0,0,47
+br,nutrologist,medical,1,1,0,7
+mx,otorhinolaryngologist,medical,0,0,0,16
+mx,urologist,medical,1,0,0,30
+br,neurologist,medical,1,1,0,5
+mx,educational psychologist,paramedical,0,1,0,1
+br,dentist,paramedical,1,1,1,25
+br,digestive system surgeon / general surgeon,medical,1,1,1,3
+br,nephrologist,medical,1,0,0,18
+br,psychologist / psychoanalyst,paramedical,1,1,0,6
+br,neurosurgeon,medical,0,0,0,3
+br,psychiatrist / general practitioner,medical,1,0,0,4
+br,cardiologist / intensive medicine specialist,medical,1,0,0,1
+mx,pediatrician,medical,1,1,0,11
+mx,internist,medical,1,1,1,35
+mx,nutrologist / nutritionist,medical,0,1,1,11
+mx,rheumatologist / internist,medical,1,1,0,3
+mx,gynecologist / urology gynecologist,medical,1,0,0,3
+br,pediatric pulmonologist,medical,1,1,1,1
+br,allergist / pediatric allergist / pediatrician,medical,1,0,0,1
+br,gastroenterologist / medical clinic specialist,medical,1,1,1,1
+mx,endodontist,medical,0,0,0,2
+br,generalist,medical,0,0,0,3
+mx,endocrinologist / internist,medical,0,0,0,2
+br,plastic surgeon,medical,1,0,0,18
+mx,dentist / periodontologist,medical,1,0,0,1
+mx,pediatric  respiratory physician / pediatrician,medical,1,1,0,2
+br,hematologist / oncologist,medical,1,0,0,1
+br,gastroenterologist,medical,1,1,0,2
+br,psychologist / psychopedagogue,paramedical,1,1,1,2
+br,speech therapist,paramedical,0,0,0,1
+mx,dentist / implantologist,medical,0,0,0,1
+mx,allergist / pediatrician,medical,0,0,0,2
+br,hepatologist / medical clinic specialist,medical,1,1,0,1
+br,digestive system surgeon / coloproctologist / gastroenterologist,medical,1,0,0,1
+br,general practitioner / neurologist,medical,1,1,0,1
+br,psychoanalyst / psychologist,paramedical,1,0,0,4
+mx,allergist / pediatrician / immunologist,medical,1,0,0,1
+mx,cosmetic medicine specialist,medical,1,1,1,4
+br,cardiologist / generalist,medical,1,1,1,1
+mx,radiation oncologist,medical,0,0,0,1
+mx,sports medicine specialist,paramedical,1,1,1,2
+br,general surgeon / endoscopist,medical,0,0,0,1
+mx,diabetologist,paramedical,0,1,1,1
+mx,neurologist,medical,1,1,0,2
+mx,angiologist / vascular surgeon,medical,1,0,0,3
+br,psychologist / sexologist,paramedical,1,0,0,1
+br,gastroenterologist / hepatologist,medical,1,0,0,1
+mx,diabetologist / general practitioner,paramedical,0,0,0,1
+br,generalist / general practitioner,medical,1,1,0,4
+mx,pediatrician / neonatologist / general practitioner,medical,0,1,1,1
+br,pediatric gastroenterologist / pediatrician,medical,1,1,0,1
+mx,cardiovascular and thoracic surgeon,medical,1,0,0,2
+br,neurosurgeon / neurophysiologist / neurologist,medical,1,1,1,1
+br,nurse,paramedical,1,1,1,4
+br,plastic surgeon / oral and maxillofacial surgeon,medical,1,1,0,1
+br,dermatologist / general practitioner,medical,1,1,0,2
+mx,maxillofacial surgeon / dentist,medical,1,1,1,2
+br,dermatologist / general practitioner,medical,1,1,1,2
+mx,periodontologist / dentist,medical,1,0,0,4
+br,geriatrician / general practitioner,medical,1,0,0,1
+mx,acupuncturist,medical,1,1,1,3
+mx,general surgeon,medical,0,1,0,1
+mx,general surgeon / endoscopist,medical,1,0,0,1
+br,dentist / oral and maxillofacial surgeon,paramedical,1,1,1,1
+mx,otorhinolaryngologist / general practitioner,medical,1,1,1,2
+mx,endocrinologist,medical,0,0,0,1
+mx,naturist,,0,1,1,1
+mx,oncologist surgeon / complementary therapist,medical,1,0,0,1
+br,traumatologist and orthopedist / pain management specialist,medical,1,1,1,2
+br,pulmonologist / sleep doctor / general practitioner,medical,1,1,1,1
+br,endocrinologist / pediatrician / general practitioner,medical,1,1,1,1
+br,pulmonologist / general practitioner,medical,1,1,1,1
+mx,angiologist / vascular surgeon / general practitioner,medical,1,0,0,1
+br,nephrologist / pediatrician,medical,1,1,1,1
+mx,sports medicine specialist,paramedical,1,1,0,1
+mx,psychiatrist / general practitioner,medical,1,1,1,1
+mx,podiatrist / podiatrist,paramedical,1,1,1,1
+mx,allergist / immunologist / pediatrician,medical,1,0,0,2
+mx,angiologist / vascular surgeon,medical,0,0,0,2
+mx,plastic surgeon,medical,0,1,1,1
+br,endocrinologist / medical clinic specialist / nutrologist,medical,1,1,1,1
+br,digestive system surgeon,medical,1,1,1,2
+br,pediatric gastroenterologist,medical,1,1,1,1
+br,family doctor / general practitioner,medical,1,0,0,2
+mx,anesthesiologist / pain management specialist,paramedical,1,1,0,1
+mx,specialist in critical medicine and intensive care,paramedical,1,1,1,1
+mx,diabetologist / integrated medicine specialist,paramedical,1,1,1,1
+br,nephrologist / general practitioner,medical,1,0,0,3
+br,pediatrician / pediatric neurologist,medical,1,0,0,1
+br,general practitioner / emergency doctor,medical,1,1,1,1
+br,plastic surgeon / general surgeon / craniomaxillofacial surgeon,medical,1,0,0,1
+br,rheumatologist / acupuncturist,medical,1,1,1,1
+br,generalist / cardiologist,medical,1,1,1,1
+mx,pediatric dentist / dentist,medical,1,1,0,1
+br,general practitioner / intensive medicine specialist,medical,1,1,1,1
+br,pulmonologist / sleep doctor,medical,1,1,1,1
+mx,orthopedist / orthopaedic surgeon / pediatric orthopedist,paramedical,0,0,0,1
+mx,podiatrist / cosmetic medicine specialist,paramedical,0,1,1,1
+mx,rheumatologist / internist,medical,1,1,1,1
+mx,general surgeon / gastroenterologist / general practitioner,medical,0,0,0,1
+br,general practitioner,medical,1,0,0,116
+mx,dentist,medical,1,1,1,120
+mx,gastroenterologist,medical,1,0,0,6
+mx,nutrologist,medical,1,0,0,6
+mx,orthopedist,paramedical,0,0,0,5
+mx,general practitioner,medical,1,0,0,34
+br,radiologist,medical,1,0,0,2
+mx,pediatrician,medical,0,0,0,18
+br,medical clinic specialist,medical,1,1,1,18
+br,general practitioner / geriatrician,medical,1,1,1,1
+mx,pediatrician / pediatric  respiratory physician,medical,0,1,1,1
+br,rheumatologist,medical,1,0,0,14
+br,medical clinic specialist / general practitioner,medical,1,1,1,2
+br,psychiatrist / family doctor,medical,1,1,1,3
+mx,physical medicine and rehabilitation specialist,paramedical,1,0,0,4
+br,medical clinic specialist,medical,1,1,0,7
+mx,rheumatologist,medical,1,1,0,2
+mx,homeopath / general practitioner,medical,1,1,1,4
+mx,pediatric endocrinologist / pediatrician,medical,1,0,0,4
+br,mastologist / gynecologist,medical,1,0,0,4
+br,urologist / general practitioner,medical,1,0,0,3
+br,general practitioner / geriatrician,medical,1,0,0,1
+br,pediatrician / pediatric gastroenterologist,medical,1,1,1,1
+mx,ophthalmologist / general practitioner,medical,0,0,0,2
+br,traumatologist and orthopedist / traffic doctor / pain management specialist,medical,1,1,0,1
+br,cardiologist / nutrologist,medical,1,0,0,1
+br,traumatologist and orthopedist,medical,0,1,1,1
+br,hand surgeon,medical,1,0,0,1
+mx,dentist / endodontist,medical,1,1,1,5
+br,cardiologist / internist / general practitioner,medical,1,1,1,1
+mx,endocrinologist,medical,1,1,0,1
+br,neurologist,medical,0,0,0,2
+br,dermatologist / specialist in aesthetic medicine / generalist,medical,1,1,0,1
+br,gynecologist / nutrologist,medical,1,1,1,3
+mx,complementary therapist,paramedical,1,1,1,3
+br,otolaryngologist / sleep doctor,medical,1,1,0,2
+br,general surgeon / oncologist surgeon,medical,1,1,1,1
+mx,urologist,medical,0,1,1,4
+br,pediatrician / acupuncturist,medical,1,0,0,1
+mx,pain management specialist / anesthesiologist,medical,0,1,1,1
+br,geneticist,medical,1,1,1,2
+mx,neurologist / neurophysiologist,medical,0,1,1,1
+br,diagnostic radiologist,medical,1,1,1,2
+mx,chiropractor,paramedical,0,0,0,1
+mx,clinical nutritionist / nutritionist,paramedical,1,1,1,2
+br,pulmonologist / medical clinic specialist,medical,1,0,0,1
+mx,hematologist,medical,1,1,1,3
+br,anesthesiologist / generalist,medical,1,1,0,1
+br,endoscopist / digestive system surgeon,medical,1,0,0,1
+br,general surgeon / acupuncturist,medical,1,1,1,1
+br,general practitioner / intensive medicine specialist / emergency doctor,medical,1,1,0,1
+br,pediatrician / endocrinologist,medical,1,1,0,1
+mx,pediatrician / neonatologist,medical,1,1,0,3
+mx,neurologist / internist,medical,0,0,0,1
+br,pediatrician / homeopath,medical,1,1,0,1
+br,family doctor / nutrologist,medical,1,1,1,1
+br,general surgeon,,1,1,1,1
+br,allergist,medical,1,1,0,5
+mx,angiologist / vascular surgeon,medical,0,1,1,1
+mx,clinical nutritionist / specialist in obesity and thinness,paramedical,1,1,1,1
+mx,dentist / maxillofacial surgeon,medical,0,1,1,1
+mx,general practitioner / diabetologist,medical,1,1,1,1
+br,expert doctor / occupational doctor / traffic doctor,medical,1,1,1,1
+mx,general practitioner / family doctor,medical,1,1,1,1
+br,pediatric surgeon / general surgeon,medical,1,0,0,1
+mx,nutrologist / nutritionist,,1,1,1,1
+br,family doctor / psychiatrist,medical,1,1,0,3
+mx,pediatric  respiratory physician,medical,1,1,0,1
+mx,orthodontist / dentist,medical,1,1,0,3
+mx,sports medicine specialist,paramedical,0,0,0,1
+mx,educational psychologist,paramedical,1,0,0,1
+mx,clinical nutritionist,paramedical,0,0,0,1
+br,gastroenterologist / endoscopist,medical,1,1,0,1
+br,allergist / pediatrician,medical,1,0,0,1
+br,dermatologist / generalist,medical,1,0,0,1
+mx,pediatric ophthalmologist / ophthalmologist,medical,1,1,0,1
+mx,psychiatrist,medical,0,1,0,1
+mx,pediatrician,medical,1,1,1,47
+br,psychoanalyst,paramedical,1,1,1,71
+br,pulmonologist,medical,1,1,1,12
+br,gynecologist,medical,0,0,0,10
+br,generalist,medical,1,0,0,59
+mx,psychiatrist,medical,1,1,1,20
+mx,clinical nutritionist,paramedical,1,1,1,5
+br,pediatric endocrinologist,medical,1,1,1,6
+br,pediatric neurologist,medical,1,1,1,8
+br,cardiovascular surgeon,medical,1,0,0,3
+mx,family doctor,medical,0,1,0,2
+br,coloproctologist,medical,1,1,0,3
+mx,orthopedist / orthopaedic surgeon,paramedical,0,1,0,3
+mx,hematologist,medical,0,0,0,3
+br,medical clinic specialist / hepatologist,medical,1,1,1,1
+mx,orthodontist / dentist,medical,1,0,0,15
+mx,bariatric surgeon / general surgeon,medical,0,0,0,3
+br,oral and maxillofacial surgeon,paramedical,1,0,0,8
+br,pediatrician / intensive medicine specialist,medical,1,0,0,2
+mx,psychiatrist,medical,0,0,0,9
+br,general practitioner,medical,1,1,0,33
+mx,pediatric gastroenterologist / pediatrician,medical,0,1,1,2
+mx,nurse,medical,0,0,0,1
+mx,endocrinologist,medical,1,0,0,5
+mx,nutrologist,medical,1,1,0,8
+mx,rheumatologist,medical,1,0,0,1
+br,pediatric surgeon,medical,1,1,1,2
+br,pulmonologist / general practitioner / medical clinic specialist,medical,1,1,1,1
+mx,allergist / immunologist,medical,1,1,1,2
+mx,dentist / endodontist,medical,0,0,0,1
+mx,educational psychologist,paramedical,1,1,0,1
+br,dermatologist,,1,0,0,1
+br,pediatrician / generalist,medical,1,0,0,2
+mx,urologist / general surgeon,medical,1,0,0,1
+mx,cardiologist,medical,0,1,1,3
+mx,family doctor / general practitioner,medical,1,0,0,1
+mx,pediatric surgeon / general practitioner,medical,0,0,0,1
+mx,internist / general practitioner,medical,1,1,0,1
+br,general practitioner / neurosurgeon,medical,1,1,1,1
+mx,pediatrician / neonatologist,medical,1,0,0,5
+mx,general surgeon / endoscopist,medical,0,0,0,1
+br,orofacial harmonization specialist,paramedical,0,0,0,1
+br,pediatric neurologist,medical,1,1,0,2
+mx,gastroenterologist,medical,1,1,0,1
+br,pediatric infectologist,medical,1,1,1,1
+br,psychologist / nutritionist,paramedical,1,1,1,1
+mx,general practitioner / clinical nutritionist,medical,1,1,1,1
+br,pediatrician / pediatric pulmonologist,medical,1,0,0,1
+mx,pediatrician / allergist / immunologist,medical,1,0,0,1
+mx,bariatric surgeon / general surgeon / specialist in obesity and thinness,medical,1,1,1,1
+mx,pediatric nephrologist / pediatrician,medical,0,1,0,2
+mx,orthopedist / orthopaedic surgeon,paramedical,0,1,1,4
+br,pediatric neurologist / pediatrician / neurophysiologist,medical,1,1,0,1
+br,cardiologist / nutrologist,medical,1,1,0,1
+br,psychiatrist / pain management specialist,medical,1,1,0,1
+mx,anesthesiologist / pain management specialist,paramedical,1,1,1,1
+br,otolaryngologist / sleep doctor,medical,1,0,0,1
+mx,psychologist / psychoanalyst,paramedical,1,1,0,1
+mx,emergency medicine specialist,paramedical,1,0,0,1
+br,dermatologist / endocrinologist,medical,1,0,0,1
+mx,anesthesiologist,paramedical,0,0,0,1
+br,neurologist / neurosurgeon,medical,1,1,1,1
+mx,neurologist / neurophysiologist / general practitioner,medical,1,1,0,1
+mx,nephrologist / internist,medical,0,1,0,1
+mx,pediatric neurologist / pediatrician,medical,1,0,0,1
+mx,orthodontist,medical,1,0,0,1
+br,rheumatologist,medical,1,1,0,2
+br,pediatric endocrinologist / sports medicine specialist / pediatrician,medical,1,1,1,1
